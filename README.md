@@ -45,9 +45,6 @@ An automated, standalone MATLAB signal processing pipeline designed to quantify 
 
 ---
 
-### How to Run
-
-1. Clone this repository:
 ```bash
 git clone [https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git](https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git)
 ```
