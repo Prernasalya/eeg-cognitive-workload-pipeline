@@ -34,8 +34,11 @@ An automated, standalone MATLAB signal processing pipeline designed to quantify 
 | **Subject 03** | 1.2877 | 1.7566 | +0.4689 | 0.0461 | 0.0026 | -0.0436 | Global suppression across lower spectra |
 
 ### Spectral Power Shift (Baseline vs. Arithmetic Task)
-*(Embed your saved PSD overlay figure here)*
-`![PSD Overlay](subject00_overlay.png)`
+
+`![PSD Overlay](subject00_Overlay.png)`
+`![PSD Overlay](subject01_Overlay.png)`
+`![PSD Overlay](subject02_Overlay.png)`
+`![PSD Overlay](subject03_Overlay.png)`
 
 ---
 
