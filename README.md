@@ -26,12 +26,12 @@ An automated, standalone MATLAB signal processing pipeline designed to quantify 
 
 ## 📊 Results & Validation ($N=4$)
 
-| Subject | Baseline Midline TBR | Task Midline TBR | $\Delta$TBR | Baseline FAA | Task FAA | $\Delta$FAA | Observed Neurodynamics |
+| Subject | Baseline Midline TBR | Task Midline TBR | Delta(TBR) | Baseline FAA | Task FAA | Delta(FAA) | Observed Neurodynamics |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Subject 00** | 0.8142 | 0.8067 | -0.0075 | 0.0416 | 0.0707 | +0.0291 | Event-Related Desynchronization (ERD) at 10 Hz |
+| **Subject 00** | 0.7663 | 0.8042 | +0.0379 | 0.0416 | 0.0888 | +0.0472 | Event-Related Desynchronization (ERD) at 10 Hz |
 | **Subject 01** | 0.7876 | 3.0828 | +2.2952 | 0.0011 | -0.1136 | -0.1147 | High-amplitude Frontal Midline Theta surge |
-| **Subject 02** | *[Add val]* | *[Add val]* | *[Add val]* | *[Add val]* | *[Add val]* | *[Add val]* | Broadband engagement, sustained Alpha drop |
-| **Subject 03** | *[Add val]* | *[Add val]* | *[Add val]* | *[Add val]* | *[Add val]* | *[Add val]* | Global suppression across lower spectra |
+| **Subject 02** | 0.7292 | 0.6843 | -0.0450 | -0.1326 | -0.1604 | -0.0278 | Broadband engagement, sustained Alpha drop |
+| **Subject 03** | 1.2877 | 1.7566 | +0.4689 | 0.0461 | 0.0026 | -0.0436 | Global suppression across lower spectra |
 
 ### Spectral Power Shift (Baseline vs. Arithmetic Task)
 *(Embed your saved PSD overlay figure here)*
@@ -43,4 +43,4 @@ An automated, standalone MATLAB signal processing pipeline designed to quantify 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Premasalya/eeg-cognitive-workload-pipeline.git](https://github.com/Premasalya/eeg-cognitive-workload-pipeline.git)
+   git clone [https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git](https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git)
