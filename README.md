@@ -35,15 +35,19 @@ An automated, standalone MATLAB signal processing pipeline designed to quantify 
 
 ### Spectral Power Shift (Baseline vs. Arithmetic Task)
 
-`![PSD Overlay](subject00_Overlay.png)`
-`![PSD Overlay](subject01_Overlay.png)`
-`![PSD Overlay](subject02_Overlay.png)`
-`![PSD Overlay](subject03_Overlay.png)`
+![Subject 00 Overlay](subject00_Overlay.png)
+
+![Subject 01 Overlay](subject01_Overlay.png)
+
+![Subject 02 Overlay](subject02_Overlay.png)
+
+![Subject 03 Overlay](subject03_Overlay.png)
 
 ---
 
-## 🚀 How to Run
+### How to Run
 
 1. Clone this repository:
-   ```bash
-   git clone [https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git](https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git)
+```bash
+git clone [https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git](https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git)
+```
