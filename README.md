@@ -51,3 +51,10 @@ An automated, standalone MATLAB signal processing pipeline designed to quantify 
 ```bash
 git clone [https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git](https://github.com/Prernasalya/eeg-cognitive-workload-pipeline.git)
 ```
+
+## 📚 Dataset Reference
+
+Data sourced from PhysioNet:
+* **Dataset:** [EEG During Mental Arithmetic Tasks](https://physionet.org/content/eegmat/1.0.0/)
+* **Format:** Continuous recordings (.edf), 19 scalp channels (10–20 international system), 500 Hz sampling rate.
+* **Conditions:** 3-minute resting baseline (eyes open/closed) vs. 1-minute intensive serial subtraction task.
