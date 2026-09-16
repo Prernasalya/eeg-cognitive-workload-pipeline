@@ -1,0 +1,20 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.bak
+
+# Figure and GUI autosaves
+*.fig~
+
+# Crash dumps and log files
+matlab_crash_dump.*
+*.log
+
+# Large local raw data files (keep repos light)
+*.edf
+*.set
+*.fdt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
