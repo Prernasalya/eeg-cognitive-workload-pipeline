@@ -55,3 +55,6 @@ Data sourced from PhysioNet:
 * **Dataset:** [EEG During Mental Arithmetic Tasks](https://physionet.org/content/eegmat/1.0.0/)
 * **Format:** Continuous recordings (.edf), 19 scalp channels (10–20 international system), 500 Hz sampling rate.
 * **Conditions:** 3-minute resting baseline (eyes open/closed) vs. 1-minute intensive serial subtraction task.
+
+## Upcoming Hardware Architecture 
+(https://lnkd.in/p/gTcY_riv)
